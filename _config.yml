@@ -1,0 +1,18 @@
+analytics: {}
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.387158
+  lightness: 0.92104
+  rhythmicContrast: 0.944572
+  saturation: 0.739943
+cta: {}
+layout_spectrum: 0.428766
+name: thetest
+opengraph: {}
+purpose: {}
+typography_spectrum: 0.238955
